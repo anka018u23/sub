@@ -3,7 +3,6 @@
 Bettencourt Schueller Foundation
 giới thiệu.
 
-
 2
 00:00:11,081 --> 00:00:14,361
 Một dự án của
