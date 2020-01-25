@@ -1,7 +1,6 @@
 ﻿1
 00:01:03,667 --> 00:01:09,259
-<font color="#0000ff"><b><i>Dịch theo bản Trung văn  冲锋战警
-được cống hiến bởi 秧秧@CHD từ shooter.cn</i></b></font>
+<font color="#0000ff"><b><i>Dịch theo bản Trung văn</i></b></font>
 
 2
 00:02:43,667 --> 00:02:44,717
