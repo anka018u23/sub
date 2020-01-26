@@ -1,7 +1,6 @@
 ﻿1
 00:00:16,175 --> 00:00:22,050
-<font color="#0000ff"><b><i>Dịch theo bản Trung văn 扫毒
-được cống hiến bởi 秧秧@CHD từ shooter.cn</i></b></font>
+<font color="#0000ff"><b><i>Dịch theo bản Trung văn</i></b></font>
 
 2
 00:01:35,846 --> 00:01:36,501
